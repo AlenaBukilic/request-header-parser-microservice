@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "headre-parser",
+  "version": "1.0.0",
+  "dependencies": {
+    "hapi": "^17.4.0",
+    "request-ip": "^2.0.2"
+  }
+}
